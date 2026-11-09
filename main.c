@@ -20,5 +20,6 @@ int main(void)
         printf("/");
     else
         printf("NG");
+    
     return 0;
 }
